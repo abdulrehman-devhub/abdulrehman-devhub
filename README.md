@@ -11,9 +11,14 @@ I specialize in **Vue.js, React, Next.js, and Node.js**, focusing on scalable an
 ## 🛠 Tech Stack
 
 ### 🚀 Frontend
-- Vue.js, Nuxt.js
-- React.js, Next.js
-- Tailwind CSS, Bootstrap
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![Vue.js](https://img.shields.io/badge/Vue.js-green)
+![React](https://img.shields.io/badge/React-61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black)
+![Node.js](https://img.shields.io/badge/Node.js-339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC)
 
 ### ⚙️ Backend
 - Node.js, Express.js
