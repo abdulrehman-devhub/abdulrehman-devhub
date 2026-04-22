@@ -7,7 +7,7 @@
 ## 🚀 Senior Frontend / Full Stack Engineer
 
 👨‍💻 **About Me**
-I’m a results-driven **Senior Software Engineer** with 6+ years of experience building high-performance, scalable web applications.
+I’m a results-driven **Senior Software Engineer** with 3+ years of experience building high-performance, scalable web applications.
 I specialize in **Vue.js, React, Next.js, and Node.js**, with a strong focus on clean architecture, performance optimization, and exceptional user experience.
 
 I have hands-on experience delivering production-grade solutions, collaborating with cross-functional teams, and continuously improving code quality and development workflows.
@@ -33,8 +33,8 @@ I have hands-on experience delivering production-grade solutions, collaborating 
 
 ### 🗄 Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white)
 
 ### 🧰 Tools & Platforms
 
@@ -51,20 +51,6 @@ I have hands-on experience delivering production-grade solutions, collaborating 
 * 🤝 Collaborating effectively and mentoring developers
 * ⚡ Continuously learning and adapting to new technologies
 * 🎯 Delivering solutions that create real business impact
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrehman-devhub\&show_icons=true\&theme=radical\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehman-devhub\&layout=compact\&theme=radical\&hide_border=true)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abdulrehman-devhub\&theme=radical\&hide_border=true)
 
 ---
 
